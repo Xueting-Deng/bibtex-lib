@@ -21396,6 +21396,22 @@ Many hospitals and individuals have used the immobile and portable rehabilitatio
   url     = {https://doi.org/10.1115/1.4026900},
 }
 
+@Article{Madden2015,
+  author   = {Madden, Kaci E. and Deshpande, Ashish D.},
+  journal  = {Journal of Mechanical Design},
+  title    = {{On Integration of Additive Manufacturing During the Design and Development of a Rehabilitation Robot: A Case Study}},
+  year     = {2015},
+  issn     = {1050-0472},
+  month    = {10},
+  note     = {111417},
+  number   = {11},
+  volume   = {137},
+  abstract = {{The field of rehabilitation robotics has emerged to address the growing desire to improve therapy modalities after neurological disorders, such as a stroke. For rehabilitation robots to be successful as clinical devices, a number of mechanical design challenges must be addressed, including ergonomic interactions, weight and size minimization, and cost–time optimization. We present additive manufacturing (AM) as a compelling solution to these challenges by demonstrating how the integration of AM into the development process of a hand exoskeleton leads to critical design improvements and substantially reduces prototyping cost and time.}},
+  doi      = {10.1115/1.4031123},
+  eprint   = {https://asmedigitalcollection.asme.org/mechanicaldesign/article-pdf/137/11/111417/6227501/md\_137\_11\_111417.pdf},
+  url      = {https://doi.org/10.1115/1.4031123},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
