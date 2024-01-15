@@ -15670,12 +15670,12 @@ shapes},
    url = {http://www.w3.org/XML/}
 }
 
-@misc{xxx,
-   author = {xxx},
-   title = {xyz software},
-   publisher = {xyz software},
-   year = {2011},
-   url = {www.xyz.com}
+@Misc{xxx,
+  author    = {xxxy},
+  title     = {xyz software},
+  year      = {2011},
+  publisher = {xyz software},
+  url       = {www.xyz.com},
 }
 
 @book{Yaglom,
@@ -21356,4 +21356,4 @@ Many hospitals and individuals have used the immobile and portable rehabilitatio
   year     = {2018},
   issn     = {1050-0472},
   month    = {07},
-  note     = {092304},
+  note     =
